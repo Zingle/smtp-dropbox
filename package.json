@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Zingle/smtp-dropbox/issues"
   },
-  "homepage": "https://github.com/Zingle/smtp-dropbox#readme"
+  "homepage": "https://github.com/Zingle/smtp-dropbox#readme",
+  "dependencies": {
+    "@zingle/s3drop": "0.0.1",
+    "bytesized": "^1.0.0",
+    "concat-stream": "^2.0.0",
+    "mailparser": "^2.4.3",
+    "smtp-server": "^3.5.0",
+    "tlsopt": "^1.0.1"
+  }
 }
