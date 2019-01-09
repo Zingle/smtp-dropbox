@@ -1,0 +1,19 @@
+{
+  "name": "smtp-dropbox",
+  "version": "0.0.1",
+  "description": "SMTP daemon to accept and save attachments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zingle/smtp-dropbox.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zingle/smtp-dropbox/issues"
+  },
+  "homepage": "https://github.com/Zingle/smtp-dropbox#readme"
+}
