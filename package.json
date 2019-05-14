@@ -1,6 +1,6 @@
 {
-  "name": "smtp-dropbox",
-  "version": "0.0.1",
+  "name": "@zingle/smtpdrop",
+  "version": "0.0.1-alpha2",
   "description": "SMTP daemon to accept and save attachments",
   "main": "index.js",
   "scripts": {
