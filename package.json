@@ -1,8 +1,11 @@
 {
   "name": "@zingle/smtpdrop",
-  "version": "0.0.1-alpha2",
+  "version": "0.0.1-alpha3",
   "description": "SMTP daemon to accept and save attachments",
   "main": "index.js",
+  "bin": {
+    "smtpdrop": "bin/smtpdrop.js"
+  },
   "scripts": {
     "test": "mocha"
   },
